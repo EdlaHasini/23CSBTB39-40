@@ -7,3 +7,6 @@ Assignment4-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment4.ip
 Assignment5-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment5.ipynb]
 Assignment6-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment6.ipynb]
 Assignment7-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment7.ipynb]
+Assignment8-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment8.ipynb]
+Assignment9-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment9.ipynb]
+Assignment10-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment10.ipynb]
