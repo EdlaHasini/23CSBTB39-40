@@ -10,3 +10,4 @@ Assignment7-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment7.ip
 Assignment8-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment8.ipynb]
 Assignment9-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment9.ipynb]
 Assignment10-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/Assignment10.ipynb]
+EXAM-[https://github.com/EdlaHasini/23CSBTB39-40/blob/main/EXAM.ipynb]
